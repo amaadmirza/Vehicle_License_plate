@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>extract_images</folder>
+	<filename>frame122.jpg</filename>
+	<path>/home/amaad/Work/Classification/ANPR-Pakistan-Plate/extract_images/frame122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Undefined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>776</xmin>
+			<ymin>105</ymin>
+			<xmax>1139</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

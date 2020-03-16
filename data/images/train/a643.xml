@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>frames</folder>
+	<filename>a643.png</filename>
+	<path>/home/kamran/motorway_videos/anpr/frames/a643.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Number_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>998</xmin>
+			<ymin>695</ymin>
+			<xmax>1340</xmax>
+			<ymax>879</ymax>
+		</bndbox>
+	</object>
+</annotation>
